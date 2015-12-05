@@ -6,5 +6,6 @@
  * a nossa request vai ser do tipo get, trazendo dados do servidor
  * verificar os status da request
  * fazer alguma coisa <3
+ * só pra ajeitar
  * :)
  */
